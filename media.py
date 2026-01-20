@@ -7,6 +7,7 @@ Média < 5: Reprovado
 Escreva um programa que receba três notas como entrada e calcule a média final. Com base 
 na média, exiba a situação do aluno.
 '''
+
 import os
 os.system("cls")
 
